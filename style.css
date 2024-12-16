@@ -420,6 +420,10 @@ html body{
     .box:nth-last-of-type(3){
         margin-top: 40px;
     }
+    .container h1{
+        top:50px;
+        left:145px;
+    }
 
 }
 
@@ -478,6 +482,10 @@ html body{
 
     .anotherdiv img{
         width:100px;  
+    }
+    .container h1{
+        top:50px;
+        left:40px;
     }
 }
 
