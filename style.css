@@ -234,7 +234,7 @@ html body{
 }
 
 .box{
-    height:560px;
+    height:575px;
     width:300px;
     border-radius: 30px;
     margin-top: 150px;
@@ -263,6 +263,7 @@ html body{
 .box p:nth-last-of-type(1){
     font-size:1.2rem;
     font-weight: 400;
+    margin-top: 10px;
 }
 
 .box button{
@@ -275,6 +276,7 @@ html body{
     transition: all ease 0.5s;
     cursor: pointer;
     background: white;
+    margin-top: 10px;
 }
 
 .box button:hover{
