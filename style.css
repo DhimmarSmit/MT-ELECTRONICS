@@ -436,6 +436,7 @@ html body{
     .swiperdiv i{
         font-size: 0.8rem;
         margin-left:6px;
+        margin-bottom: 10px;
     }
 
     .box{
@@ -470,11 +471,11 @@ html body{
     }
 
     .icons{
-        gap:10px;
+        gap:12px;
     }
 
     .icons i{
-        font-size: 0.8rem;
+        font-size: 1.0rem;
     }
 
     .icons i:nth-last-of-type(1){
